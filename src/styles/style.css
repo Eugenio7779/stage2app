@@ -608,7 +608,7 @@ input[type='range'].frame_rate:focus::-ms-fill-upper {
 .clearButton>.hint,
 .downloadButton>.hint {
   top: 50px;
-  left: -46px;
+  left: -20px;
 }
 
 .downloadButton:hover .hint,
