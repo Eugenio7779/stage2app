@@ -1,4 +1,4 @@
-import Frames from '../frames/frames';
+import Frames from '../frames/Frames';
 import Canvas from '../Canvas/Canvas';
 import Color from './Color/Color';
 import Instruments from '../instruments/instruments';

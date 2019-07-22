@@ -1,6 +1,6 @@
 import Canvas from '../Canvas';
 import Tools from '../tools/Tools';
-import Frames from '../frames/frames';
+import Frames from '../frames/Frames';
 import Instruments from '../instruments/instruments';
 import Preview from '../preview/Preview';
 import LocaleStorageClass from '../localeStorage/localeStorage';
