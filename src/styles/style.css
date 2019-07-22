@@ -603,12 +603,18 @@ input[type='range'].frame_rate:focus::-ms-fill-upper {
   display: block;
 }
 
+.renderButton>.hint,
+.saveButton>.hint,
+.clearButton>.hint,
 .downloadButton>.hint {
   top: 50px;
   left: -46px;
 }
 
-.downloadButton:hover .hint {
+.downloadButton:hover .hint,
+.renderButton:hover .hint,
+.saveButton:hover .hint,
+.clearButton:hover .hint {
   transition: 0.2s ease all;
   display: block;
 }

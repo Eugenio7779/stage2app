@@ -72,7 +72,7 @@ export default class App {
 
     downloadButton.addEventListener('click', instruments.downloadGif);
 
-    document.body.addEventListener('keyup', event => tools.keyPess(event));
+    document.body.addEventListener('mouseup', event => tools.keyPess(event));
 
     $(() => {
       $('#sortable').sortable();
